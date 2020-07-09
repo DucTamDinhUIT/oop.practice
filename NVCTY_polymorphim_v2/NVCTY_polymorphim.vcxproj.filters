@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="CCongNhat.cpp">
+      <Filter>Source file</Filter>
+    </ClCompile>
+    <ClCompile Include="CNhanVien.cpp">
+      <Filter>Source file</Filter>
+    </ClCompile>
+    <ClCompile Include="CongTy.cpp">
+      <Filter>Source file</Filter>
+    </ClCompile>
+    <ClCompile Include="CQuanLy.cpp">
+      <Filter>Source file</Filter>
+    </ClCompile>
+    <ClCompile Include="CSanXuat.cpp">
+      <Filter>Source file</Filter>
+    </ClCompile>
+    <ClCompile Include="Source.cpp">
+      <Filter>Source file</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CCongNhat.h">
+      <Filter>Header file</Filter>
+    </ClInclude>
+    <ClInclude Include="CongTy.h">
+      <Filter>Header file</Filter>
+    </ClInclude>
+    <ClInclude Include="CNhanVien.h">
+      <Filter>Header file</Filter>
+    </ClInclude>
+    <ClInclude Include="CQuanLy.h">
+      <Filter>Header file</Filter>
+    </ClInclude>
+    <ClInclude Include="CSanXuat.h">
+      <Filter>Header file</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header file">
+      <UniqueIdentifier>{bf4cb2ef-7c84-4d43-bc79-3fb0c7a30668}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source file">
+      <UniqueIdentifier>{c2ef98f0-651a-45d3-a5a4-6d28cfa8faee}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
